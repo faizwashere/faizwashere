@@ -1,5 +1,1 @@
-### guestbook
-
-faiz was here  
-faiz was here again  
-starting to think it's just me
+![Pixel-art rooftops at dusk with the caption "the long way home".](./dusk.png)
