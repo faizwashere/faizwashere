@@ -1,6 +1,6 @@
 ![Pixel-art rooftops at dusk with the caption "the long way home".](./dusk.png)
 
-![SSH terminal with a gold Hello World banner and a peach permission-denied message.](./terminal.svg)
+![SSH terminal with a gold Hello World banner and a peach permission-denied message.](./terminal.png)
 
 ### Currently Building
 
